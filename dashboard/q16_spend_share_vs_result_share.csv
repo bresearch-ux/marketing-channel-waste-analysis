@@ -1,0 +1,37 @@
+platform,objective,spend_share_pct,result_share_pct
+Google Search,Engagement,23.5,47.26
+Meta,Engagement,19.89,16.3
+LinkedIn,Engagement,19.18,2.49
+TikTok,Engagement,17.4,15.65
+Snapchat,Engagement,11.3,12.06
+Google Display,Engagement,8.73,6.24
+Google Search,Leads,21.5,68.03
+LinkedIn,Leads,21.05,2.45
+Meta,Leads,20.1,12.33
+TikTok,Leads,16.57,8.28
+Snapchat,Leads,11.3,6.22
+Google Display,Leads,9.48,2.68
+Google Search,Reach,21.25,11.63
+LinkedIn,Reach,20.7,6.11
+Meta,Reach,20.69,21.54
+TikTok,Reach,16.1,23.66
+Snapchat,Reach,12.19,21.68
+Google Display,Reach,9.06,15.39
+Google Search,Sales,21.92,74.06
+Meta,Sales,20.94,11.3
+LinkedIn,Sales,19.66,1.73
+TikTok,Sales,16.58,6.46
+Snapchat,Sales,11.83,4.23
+Google Display,Sales,9.08,2.22
+Google Search,Traffic,22.31,45.89
+Meta,Traffic,20.68,17.26
+LinkedIn,Traffic,20.67,2.75
+TikTok,Traffic,16.13,14.81
+Snapchat,Traffic,10.38,11.57
+Google Display,Traffic,9.83,7.71
+Meta,Video Views,22.57,22.53
+Google Search,Video Views,20.52,10.78
+LinkedIn,Video Views,19.81,5.78
+TikTok,Video Views,16.92,25.86
+Snapchat,Video Views,11.38,19.81
+Google Display,Video Views,8.81,15.23
