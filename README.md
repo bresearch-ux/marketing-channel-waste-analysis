@@ -25,7 +25,7 @@ Method rules used throughout: never average ratios (sum the numerator and the de
 
 ## Data
 
-MENA Digital Marketing Performance Dataset on Kaggle by alinaboulsi, licensed CC BY-SA 4.0 (add the Kaggle link here). The dataset is synthetic and benchmark based, and its own README says it should not be used for real budget decisions. This project shows a method and a pattern, not real account performance. Please credit the author, and share derivative work under the same license.
+MENA Digital Marketing Performance Dataset on Kaggle by alinaboulsi (https://www.kaggle.com/datasets/alinaboulsi/digital-marketing-performance-dataset), licensed CC BY-SA 4.0. The dataset is synthetic and benchmark based, and its own README says it should not be used for real budget decisions. This project shows a method and a pattern, not real account performance. Please credit the author, and share derivative work under the same license.
 
 ## Limitations
 
